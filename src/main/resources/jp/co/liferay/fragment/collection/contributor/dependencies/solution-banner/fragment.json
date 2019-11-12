@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-banner",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Banner",
+  "thumbnail": "solution-banner.png",
+  "type": "section"
+}

@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-top-three-highlights",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Top 3 Highlights",
+  "thumbnail": "solution-top-three-highlights.png",
+  "type": "component"
+}

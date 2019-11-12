@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "partner-information",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Partner - Information",
+  "thumbnail": "partner-information.png",
+  "type": "component"
+}

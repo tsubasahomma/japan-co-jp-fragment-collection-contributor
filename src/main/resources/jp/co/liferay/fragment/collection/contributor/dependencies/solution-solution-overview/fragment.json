@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-overview",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Overview",
+  "thumbnail": "solution-overview.png",
+  "type": "component"
+}

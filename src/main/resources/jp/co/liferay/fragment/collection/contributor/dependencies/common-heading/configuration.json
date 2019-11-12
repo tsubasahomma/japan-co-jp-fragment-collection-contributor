@@ -1,0 +1,14 @@
+{
+  "fieldSets": [
+    {
+      "fields": [
+        {
+          "name": "showOnlyHeading",
+          "label": "Show only heading",
+          "type": "checkbox",
+          "defaultValue": false
+        }
+      ]
+    }
+  ]
+}

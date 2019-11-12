@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-flexible-architecture",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Flexible Architecture",
+  "thumbnail": "solution-flexible-architecture.png",
+  "type": "section"
+}

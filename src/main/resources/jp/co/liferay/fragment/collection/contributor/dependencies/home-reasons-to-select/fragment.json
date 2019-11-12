@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "home-reasons-to-select",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Home - Reasons to Select",
+  "thumbnail": "home-reasons-to-select.png",
+  "type": "component"
+}

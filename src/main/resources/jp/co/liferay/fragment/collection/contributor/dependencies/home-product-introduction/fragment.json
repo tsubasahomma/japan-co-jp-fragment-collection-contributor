@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "home-product-introduction",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Home - Product Introduction",
+  "thumbnail": "home-product-introduction.png",
+  "type": "section"
+}

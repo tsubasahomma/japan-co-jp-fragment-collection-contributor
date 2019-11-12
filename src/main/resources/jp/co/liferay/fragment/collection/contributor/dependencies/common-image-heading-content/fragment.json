@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-image-heading-content",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - Image, Heading, Content",
+  "thumbnail": "common-image-heading-content.png",
+  "type": "component"
+}

@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-heading",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - Heading",
+  "thumbnail": "common-heading.png",
+  "type": "section"
+}

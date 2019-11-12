@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-feature-introduction",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Feature Introduction",
+  "thumbnail": "solution-feature-introduction.png",
+  "type": "component"
+}

@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-fluid-5-columns",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - Fluid 5 Columns",
+  "thumbnail": "common-fluid-5-columns.png",
+  "type": "component"
+}

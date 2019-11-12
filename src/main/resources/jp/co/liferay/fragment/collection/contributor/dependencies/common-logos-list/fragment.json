@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-logos-list",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - Logo List",
+  "thumbnail": "common-logos-list.png",
+  "type": "component"
+}

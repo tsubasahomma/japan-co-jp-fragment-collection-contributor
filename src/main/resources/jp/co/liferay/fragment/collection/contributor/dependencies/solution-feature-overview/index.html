@@ -1,0 +1,34 @@
+[#assign
+icons_svg = themeDisplay.getPathThemeImages() + '/clay/icons.svg'
+]
+<div class="feature-overview row justify-content-center">
+  <div class="col col-lg-9 px-4 py-5 p-md-5 shadow-sm bg-light">
+    <div class="row align-items-center flex-column flex-md-row">
+      <div class="col">
+        <h2 class="mb-4 text-center text-md-left">
+          <svg class="lexicon-icon display-4 d-block d-md-inline-block mb-3 mb-md-0 mx-auto mr-md-2">
+            <use href="${icons_svg}#${configuration.clayIcon}" />
+          </svg>
+          <div class="d-inline-block align-middle">
+            <lfr-editable id="highlighted-features-heading" type="text">
+              見出し
+            </lfr-editable>
+          </div>
+        </h2>
+        <div class="mb-0">
+          <lfr-editable id="highlighted-features-content" type="rich-text">
+            <p>
+              説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文
+            </p>
+          </lfr-editable>
+        </div>
+      </div>
+      <div class="col">
+        <lfr-editable id="highlighted-features-screenshot" type="image">
+          <img class="shadow-sm w-100" src="https://via.placeholder.com/1366x768?text=Screenshot">
+        </lfr-editable>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

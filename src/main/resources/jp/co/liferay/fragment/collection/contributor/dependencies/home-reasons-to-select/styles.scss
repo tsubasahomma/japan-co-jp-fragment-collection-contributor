@@ -1,0 +1,33 @@
+.reasons-to-select {
+  counter-reset: number 0;
+}
+
+.reasons-to-select img {
+  width: 100%;
+}
+
+.reasons-to-select .h3::before {
+  background-color: #50657d;
+  border-radius: 100%;
+  color: #fff;
+  content: counter(number);
+  counter-increment: number 1;
+  display: block;
+  font-weight: normal;
+  height: 3rem;
+  line-height: 3rem;
+  margin: 0 auto .875rem;
+  width: 3rem;
+}
+
+@media (min-width: 768px) {
+  .reasons-to-select img {
+    width: 80%;
+  }
+}
+
+@media (min-width: 992px) {
+  .reasons-to-select img {
+    width: 60%;
+  }
+}

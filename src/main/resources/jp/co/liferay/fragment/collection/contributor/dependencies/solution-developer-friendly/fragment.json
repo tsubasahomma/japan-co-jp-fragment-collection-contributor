@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-developer-friendly",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Developer Friendly",
+  "thumbnail": "solution-developer-friendly.png",
+  "type": "component"
+}

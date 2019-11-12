@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "service-card-icon-text",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Service - Card (Icon + Text)",
+  "thumbnail": "service-card-icon-text.png",
+  "type": "section"
+}

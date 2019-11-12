@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "home-hero",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Home - Hero",
+  "thumbnail": "home-hero.png",
+  "type": "section"
+}

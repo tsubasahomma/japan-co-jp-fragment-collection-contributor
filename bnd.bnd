@@ -1,0 +1,9 @@
+Bundle-Name: Liferay.co.jp Fragment Collection Contributor
+Bundle-SymbolicName: jp.co.liferay.fragment.collection.contributor
+Bundle-Version: 1.0.0
+Import-Package:\
+	com.liferay.fragment.contributor;version="[1.0,2.0)",\
+	\
+	*
+Web-ContextPath: /liferay-co-jp-fragment-collection-contributor
+-dsannotations-options: inherit

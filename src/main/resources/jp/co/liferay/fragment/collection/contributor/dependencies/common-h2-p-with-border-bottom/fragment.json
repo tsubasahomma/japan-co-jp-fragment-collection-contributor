@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-h2-p-with-border-bottom",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - h2 + p with Border Bottom",
+  "thumbnail": "common-h2-p-with-border-bottom.png",
+  "type": "component"
+}

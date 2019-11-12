@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-case-study",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - Case Study",
+  "thumbnail": "solution-case-study.png",
+  "type": "section"
+}

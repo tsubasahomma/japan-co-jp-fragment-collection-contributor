@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "solution-what-is-this",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Solution - What Is This",
+  "thumbnail": "solution-what-is-this.png",
+  "type": "section"
+}

@@ -1,0 +1,10 @@
+{
+  "configurationPath": "configuration.json",
+  "cssPath": "styles.css",
+  "fragmentEntryKey": "common-two-columns-banner",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Common - 2 Columns Banner",
+  "thumbnail": "common-two-columns-banner.png",
+  "type": "section"
+}
